@@ -95,6 +95,7 @@ BOARD_CUSTOM_BOOTIMG := true
 
 TARGET_KMODULES := true
 
+# fix this up by examining /proc/mtd on a running device
 # make_ext4fs requires numbers in dec format
 TARGET_USERIMAGES_USE_EXT4 := true
 BOARD_CACHEIMAGE_FILE_SYSTEM_TYPE := ext4
