@@ -1,8 +1,8 @@
  [
   {
     "remote": "github",
-    "repository": "mosya234/android_vendor_zte_blade_a610",
-    "target_path": "vendor/zte/a610",
+    "repository": "vvovann/android_device_doogee_T5",
+    "target_path": "vendor/DOOGEE/T5",
     "branch": "LineageOS-14.1"
   }
 ] 
